@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import Tut13_LifeCycleB from './Tut13_LifeCycleB';
 
-
 // Mounting LifeCycle Methods ----------
 
 export class Tut13_LifeCycleA extends Component {

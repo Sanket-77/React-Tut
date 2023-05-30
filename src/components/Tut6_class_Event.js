@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 
 export class Tut6_class_Event extends Component {
+  
     clickHandeler(){
         console.log('Clicked button');
     }
