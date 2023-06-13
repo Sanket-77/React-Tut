@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Tut13_LifeCycleB from './Tut13_LifeCycleB';
 
-// Mounting LifeCycle Methods ----------
+// Mounting LifeCycle Methods -----------------
 
 export class Tut13_LifeCycleA extends Component {
     // 1
@@ -13,7 +13,6 @@ export class Tut13_LifeCycleA extends Component {
       }
       console.log('LifeCycleA Constructor');
     }
-
 
     //  2
     static getDerivedStateFromProps(props,state){
